@@ -2,6 +2,13 @@
 Java full stack small Project titled "Building an Employee Management Application with Spring Boot, HTML, CSS, and JS or Thymeleaf Framework.
 
 ////////////////////////////////////////////////////////////////Important point/////////////////////////////////////////////////////////////////////////////////////
+
+In Github there are 2 main folder Main folder and master folder
+Main Folder
+Master Floader
+Kindly see all branches
+
+
 //////////////////////////////Visit your browser at http://localhost:8080/employees/ to see the Thymeleaf pages/////////////////////////////
 //////////////////////////////Go to http://localhost:8080/swagger-ui.html to see the generated API documentation///////////////////////////
 
