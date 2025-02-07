@@ -1,6 +1,32 @@
 # Building-an-Employee-Management-Application-with-Spring-Boot-HTML-CSS-and-JS-or-Thymeleaf-Framework.
 Java full stack small Project titled "Building an Employee Management Application with Spring Boot, HTML, CSS, and JS or Thymeleaf Framework.
 
+1.	Employee Database Management System:
+
+   
+Project Overview:
+
+Developed an Employee Database Management System that allows administrators to manage employee information such as personal details, department, job role, and contact information. Users can add, update, and delete employee records.
+
+Key Features:
+
+•	Employee Management: CRUD (Create, Read, Update, Delete) operations for managing employee data, including employee ID, name, position, salary, and contact details.
+
+•	Backend Development: Built using Spring Boot to create RESTful services for handling employee data.
+
+•	Database Integration: Designed and implemented a MySQL database schema for storing employee details.
+
+•	Frontend Interface: Developed a simple and intuitive web interface using HTML5, CSS3, and JavaScript for managing employee records.
+
+•	Authentication: Implemented basic user authentication using Spring Security.
+
+•	Testing: Utilized JUnit for unit testing backend services and ensuring functional integrity of CRUD operations.
+
+Search Functionality: Added search and filter options for users to quickly find employees based on name or department.
+
+Technologies Used: Core Java, Spring Boot, Spring MVC, MySQL, JUnit for Unit Testing, HTML5, CSS3, JavaScript.
+
+
 ////////////////////////////////////////////////////////////////Important point/////////////////////////////////////////////////////////////////////////////////////
 
 In Github there are 2 main folder Main folder and master folder
